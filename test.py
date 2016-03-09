@@ -20,3 +20,6 @@ for i in matrika:
                 else:
                     k+=100
 root.mainloop()
+
+k=3
+a=k*2
