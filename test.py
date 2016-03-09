@@ -21,5 +21,5 @@ for i in matrika:
                     k+=100
 root.mainloop()
 
-k=3
+k=5
 a=k*2
